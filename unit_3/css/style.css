@@ -1,9 +1,9 @@
 body {
-  text-align: left;
-  background: "images/mainphoto.jpg"
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+text-align: center;
+background: "images/mainphoto.jpg";
+background-size: cover;
+color: #fff;
+font-family: Helvetica;
 }
  
 h1 {
