@@ -1,7 +1,8 @@
 body {
-	background-color: white;
+	text-align: center;
+	color: #fff;
+	font-family: Helvetica;
 }
 
-h1, p {color: red;
-
-}
+h1, h3 {color: red;
+}	
