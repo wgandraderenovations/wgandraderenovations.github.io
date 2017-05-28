@@ -3,6 +3,7 @@ h1 {
 }
 h2, h3, ul {
 	background: white;
+	background-size: cover;
 	text-align: left;
 }
 
@@ -11,5 +12,9 @@ h1, h2, h3, ul {color: red;
 }
 
 h1 {
-	font-size: 45px;
+	font-size: 50px;
+}
+
+h1{
+	font-family: Helvetica;
 }
