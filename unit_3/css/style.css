@@ -9,3 +9,7 @@ h2, h3, ul {
 h1, h2, h3, ul {color: red;
 
 }
+
+h1 {
+	font-size: 45px;
+}
