@@ -1,11 +1,7 @@
 body {
-text-align: center;
-background: url("http://imgur.com/gallery/8sDbJTm.jpg");
-background-size: cover;
-color: #fff;
-font-family: Helvetica;
+	background-color: white;
 }
- 
-h1 {
-  font-size: 15px;
+
+h1, p {color: red;
+
 }
