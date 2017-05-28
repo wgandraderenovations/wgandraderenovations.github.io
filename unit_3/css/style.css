@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
 }
-body {
+h2, h3, ul {
 	background: white;
 	text-align: left;
 }
