@@ -1,6 +1,9 @@
+h1 {
+	text-align: center;
+}
 body {
-	background-color: white;
-	text-align: center
+	background: white;
+	text-align: left;
 }
 
 h1, h2, h3, ul {color: red;
