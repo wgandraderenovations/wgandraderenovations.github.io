@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+}
+h2, h3, ul {
+	background: white;
+	background-size: cover;
+	text-align: left;
+}
+
+h1, h2 {color: red;
+
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h1{
+	font-family: Helvetica;
+}
