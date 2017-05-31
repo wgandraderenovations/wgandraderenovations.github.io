@@ -9,6 +9,7 @@ h2, h3, ul {
 	background: white;
 	background-size: cover;
 	text-align: left;
+	font-family: Oxygen;
 }
 h1, h2 {color: red;
 }
