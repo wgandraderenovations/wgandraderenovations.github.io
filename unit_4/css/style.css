@@ -1,20 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
 h1 {
 	text-align: center;
+	font-size: 50px;
+	font-family: Oxygen;
 }
 h2, h3, ul {
 	background: white;
 	background-size: cover;
 	text-align: left;
 }
-
 h1, h2 {color: red;
-
 }
-
-h1 {
-	font-size: 50px;
+p {
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 2em;
 }
-
-h1{
-	font-family: Arial;
+strong {
+	font-variant: small-caps;
 }
