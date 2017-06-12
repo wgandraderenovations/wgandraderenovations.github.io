@@ -21,3 +21,12 @@ p {
 strong {
 	font-variant: small-caps;
 }
+
+.founder {
+	width: 300px;
+	max-width: 300px;
+}
+
+#topImage {
+	width: 100vw;
+}
