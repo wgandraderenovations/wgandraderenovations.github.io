@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	font-family: Oxygen;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding-bottom: .8em
+}
+h2, h3, ul {
+	background: white;
+	background-size: cover;
+	text-align: left;
+	font-family: Oxygen;
+}
+h1, h2 {color: red;
+}
+p {
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 2em;
+}
+strong {
+	font-variant: small-caps;
+}
+
+.founder {
+	width: 300px;
+	max-width: 300px;
+}
+
+#topImage {
+	width: 750px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
