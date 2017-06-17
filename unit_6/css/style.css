@@ -4,12 +4,31 @@ h1 {
 	text-align: center;
 	font-size: 60px;
 	font-family: Oxygen;
+	font-weight: 800;
 }
 nav {
-	list-style: inside;
-	margin: .5em;
-	padding: 20px;
+	padding: 10px;
+	font-size: 15px;
+}	
+
+nav a {
+	text-decoration: none;
+	color: red;
+	margin: .8em;
+	display: inline-block;
+
 }
+
+#wga {
+	display: block;
+	margin-bottom: .8em;
+}
+
+article {
+	width: 60%;
+	float: right;
+}
+
 h2, h3, ul {
 	background-size: cover;
 	text-align: left;
