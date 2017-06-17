@@ -11,7 +11,6 @@ ul{
 	padding-bottom: .8em
 }
 h2, h3, ul {
-	background: white;
 	background-size: cover;
 	text-align: left;
 	font-family: Oxygen;
@@ -28,8 +27,8 @@ strong {
 }
 
 .founder {
-	width: 300px;
-	max-width: 300px;
+	width: 150px;
+	max-width: 200px;
 }
 
 #topImage {
@@ -37,4 +36,39 @@ strong {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#services {
+	width: 250px;
+	max-width: 300px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
