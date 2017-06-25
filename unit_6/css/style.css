@@ -32,15 +32,6 @@ nav a {
 	padding: 20px;
 }
 
-.clearfix: after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
-
 #left {
 	background-color: violet;
 	border: 1px black solid;
@@ -49,12 +40,22 @@ nav a {
 	width: 30%;
 } 
 
+
 #right {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 62%;
+}
+
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 
 h2, h3, ul {
@@ -65,7 +66,7 @@ h2, h3, ul {
 }
 
 p {
-  font-size: 15px;
+  font-size: 20px;
   line-height: 2em;
  }
 
@@ -114,7 +115,7 @@ section {
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10px;
 }
 
 footer {
