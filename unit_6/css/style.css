@@ -2,26 +2,32 @@
 
 h1 {
 	text-align: center;
-	font-size: 60px;
+	font-size: 50px;
 	font-family: Oxygen;
-	font-weight: 800;
+	font-weight: 700;
+	color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 nav {
-	padding: 10px;
-	font-size: 15px;
+	padding: 20px;
+	font-size: 25px;
+	font-weight: 900;
+	text-align: center;
 }	
+
 
 nav a {
 	text-decoration: none;
-	color: red;
-	margin: .8em;
+	color: black;
+	margin: .3em;
 	display: inline-block;
-
 }
 
 #two-column {
 	background-color: #FFB7CF;
-	border: 1px black solid;
 	padding: 20px;
 }
 
@@ -50,21 +56,17 @@ nav a {
 	width: 62%;
 }
 
-
 h2, h3, ul {
 	background-size: cover;
 	text-align: left;
 	font-family: Oxygen;
-}
-h1, h2 {color: red;
+	color: red;
 }
 
 p {
-  font-size: 15px;
+  font-size: 25px;
   line-height: 2.5em;
-
  }
-
 
 strong {
 	font-variant: small-caps;
@@ -76,10 +78,12 @@ strong {
 }
 
 #topImage {
-	width: 750px;
+	width: 550px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding-top: 0;
+	padding-bottom: .8em;
 }
 
 .services {
@@ -91,25 +95,25 @@ strong {
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 30px;
 }
 
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 footer {
