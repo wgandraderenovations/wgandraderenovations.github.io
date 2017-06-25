@@ -66,8 +66,8 @@ h2, h3, ul {
 }
 
 p {
-  font-size: 20px;
-  line-height: 2em;
+  font-size: 15px;
+  line-height: normal;
  }
 
 strong {
