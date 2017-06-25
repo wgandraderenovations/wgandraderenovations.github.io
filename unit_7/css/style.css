@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: Oxygen;
+	font-weight: 700;
+	color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+nav {
+	padding: 20px;
+	font-size: 25px;
+	font-weight: 900;
+	text-align: center;
+}	
+
+
+nav a {
+	text-decoration: none;
+	color: black;
+	margin: .3em;
+	display: inline-block;
+}
+
+#two-column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+} 
+
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+h2, h3, ul {
+	background-size: cover;
+	text-align: left;
+	font-family: Oxygen;
+	color: red;
+}
+
+p {
+  font-size: 20px;
+  line-height: 2em;
+ }
+
+strong {
+	font-variant: small-caps;
+}
+
+.founder {
+	width: 150px;
+	max-width: 200px;
+}
+
+#topImage {
+	width: 550px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 0;
+	padding-bottom: .8em;
+}
+
+.services {
+	width: 550px;
+	max-width: 300px;
+	padding-right: 50px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 30px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 10px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
