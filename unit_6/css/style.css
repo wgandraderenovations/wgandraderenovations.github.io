@@ -28,6 +28,7 @@ nav a {
 
 #two-column {
 	background-color: #FFB7CF;
+	border: 1px black solid;
 	padding: 20px;
 }
 
@@ -64,8 +65,8 @@ h2, h3, ul {
 }
 
 p {
-  font-size: 25px;
-  line-height: 2.5em;
+  font-size: 15px;
+  line-height: 2em;
  }
 
 strong {
