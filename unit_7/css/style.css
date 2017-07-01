@@ -1,21 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Oxygen');
-
+body {
+	
+}
 h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 90px;
 	font-family: Oxygen;
-	font-weight: 700;
-	color: red;
+	font-weight: 800;
+	color: #0e6a94;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	font-size: 2em;
 }
 nav {
 	padding: 20px;
 	font-size: 25px;
 	font-weight: 900;
 	text-align: center;
+	color: #f2f2f2;
 }	
 
 
@@ -27,24 +31,25 @@ nav a {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #0e6a94;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: violet;
+	background-color: f2f2f2;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 30%;
+	text-align: center;
 } 
 
 
 #right {
-	background-color: pink;
+	background-color: f2f2f2;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 40px 20px;
 	float: right;
 	width: 62%;
 }
@@ -62,7 +67,7 @@ h2, h3, ul {
 	background-size: cover;
 	text-align: left;
 	font-family: Oxygen;
-	color: red;
+	color: #0e6a94;
 }
 
 p {
@@ -80,7 +85,7 @@ strong {
 }
 
 #topImage {
-	width: 550px;
+	width: 650px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -89,37 +94,36 @@ strong {
 }
 
 .services {
-	width: 550px;
-	max-width: 300px;
-	padding-right: 50px;
+	padding: 30px;
+	background-color: #f2f2f2;
 }
 
 header {
-	background-color: #FFED74;
+	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: #0e6a94;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 section {
-	background-color: #FFE2B8;
+	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 30px;
 }
 
 article {
-	background-color: #E89C6C;
+	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 10px;
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 20px;
 }
