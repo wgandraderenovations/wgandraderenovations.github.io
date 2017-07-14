@@ -5,7 +5,7 @@ body {
 h1 {
 	text-align: center;
 	font-size: 90px;
-	font-family: Oxygen;
+	font-family: 'Oxygen', sans-serif;
 	font-weight: 800;
 	color: #0e6a94;
 	padding-top: 10px;
@@ -28,6 +28,7 @@ nav a {
 	color: black;
 	margin: .3em;
 	display: inline-block;
+	font-family: 'Oxygen', sans-serif;
 }
 
 #two_column {
@@ -66,7 +67,7 @@ nav a {
 h2, h3, ul {
 	background-size: cover;
 	text-align: left;
-	font-family: Oxygen;
+	font-family: 'Oxygen';
 	color: #0e6a94;
 }
 
@@ -85,7 +86,7 @@ strong {
 }
 
 #topImage {
-	width: 80%;
+	width: 100%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -96,6 +97,7 @@ strong {
 .services {
 	padding: 30px;
 	background-color: #f2f2f2;
+	width: 25%;
 }
 
 header {
@@ -126,4 +128,9 @@ footer {
 	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+.people-container {
+	display: inline-block;
+	width: 24%;
 }
