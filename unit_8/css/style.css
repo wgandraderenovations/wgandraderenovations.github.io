@@ -34,12 +34,12 @@ nav a {
 #two_column {
 	background-color: #0e6a94;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 60px;
 }
 
 #left {
 	background-color: f2f2f2;
-	border: 1px black solid;
+	border: ;
 	padding: 20px;
 	float: left;
 	width: 30%;
@@ -86,7 +86,7 @@ strong {
 }
 
 #topImage {
-	width: 100%;
+	width: 65%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -102,7 +102,7 @@ strong {
 
 header {
 	background-color: #f2f2f2;
-	border: 1px black solid;
+	border: ;
 	padding: 20px;
 }
 
@@ -114,7 +114,7 @@ nav {
 
 section {
 	background-color: #f2f2f2;
-	border: 1px black solid;
+	border: ;
 	padding: 30px;
 }
 
@@ -126,11 +126,11 @@ article {
 
 footer {
 	background-color: #f2f2f2;
-	border: 1px black solid;
+	border: 
 	padding: 20px;
 }
 
 .people-container {
 	display: inline-block;
-	width: 24%;
+	width: 33%;
 }
